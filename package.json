@@ -1,0 +1,20 @@
+{
+  "name": "Alexa_Health",
+  "version": "1.0.0",
+  "description": "Alexa to make us fit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hackermen",
+  "license": "ISC",
+  "CLIENT_ID": "9f064353-72a6-4233-8b30-bb2d5ac68b3e",
+  "CLIENT_SECRET": "E0iN4dF8cM0jQ8kU5bK7dS4oL5oL7hK7pP3gF7jC6hN3jE3yY0",
+  "CERTIFICATE_PASSWORD": "alexa",
+  "dependencies": {
+    "async": "^2.5.0",
+    "axios": "^0.16.2",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1"
+  }
+}
